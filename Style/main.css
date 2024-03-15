@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.paddingPage{
+    padding-left: 200px;
+}
+
+.header{
+    background-color: rgb(20,106,249);
+}
+
+.Designer{
+    padding-top: 50px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 40% 60%;
+}
+
+.TextCent{
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+.Banner span{
+    font-size: 70px;
+    color: white;
+}
+
+.Banner p{
+    padding-top: 20px;
+    color: white;
+}
+
+button{
+    width: 88px;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.IMGboksing{
+    padding-left: 100px;
+}
+
+.midPage span{
+    color: rgb(20,106,249);;
+}
+
+.Store{
+    background-color: rgb(9,27,49);
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.PaddingIMG{
+    margin-top: 50px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.PaddingIMG:last-child{
+    margin-left: 50px;
+}
+
+.PaddingIMG:hover{
+    box-shadow: 20px 30px;
+}
+
+.PaddingIMG-destaque{
+    box-shadow: 50px 40px;
+}

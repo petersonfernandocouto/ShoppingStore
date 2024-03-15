@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Xbox Series X",
+      "image": "../img/xbox.jpg",
+      "price": 4.400
+    },
+    {
+      "name": "PlayStation 5",
+      "image": "../img/Play5.jpg",
+      "price": 4.400
+    },
+    {
+      "name": "ALexia",
+      "image": "../img/Alexia.jpg",
+      "price": 380.000
+    },
+    
+    {
+      "name": "Fones",
+      "image": "../img/fones.png",
+      "price": 170.00
+    }
+  ]
